@@ -3,7 +3,7 @@
     /// <summary>
     /// Represents an immutable, dense 2-D matrix of doubles, stored in row-major order.
     /// Data is stored in a single 1-D array. For a matrix with `r` rows and `c` columns,
-    /// the element at (row, col) is at index `row * c + col` in the array.
+    /// the element at (row, col) is at index `row * c + col` in the array. testing testing
     /// </summary>
     public sealed class Matrix
     {
